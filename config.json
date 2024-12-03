@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/profile",
+      "prod_uri":"mysql://root:@localhost/profile",
+      "ig_url":"https://instagram.com/Jigo___5",
+      "ld_url":"https://www.linkedin.com/in/jignesh-sathavara-9550a1279/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bo5fHFKK6SfeDpmXQRvh7wA%3D%3D",
+      "blog_name": "Jignesh Sathavara",
+      "tag_line": "I can help your business to",
+      "about_line": "I can help you to brands grow.",
+      "project_line":"Conect with me.",
+      "gmail-user":"Sathavarajignesh2@gmail.com",
+      "gmail-password":"ctgp bnua xkvc fmua",
+      "admin_user": "jignesh",
+      "admin_password":"Jigar#@22"
+    }
+  }
+  
